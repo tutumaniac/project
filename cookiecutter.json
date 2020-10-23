@@ -1,0 +1,8 @@
+{
+  "full_name": "Frederic Yaw Timmer",
+  "email": "ftimmer@felix-schoeller.com",
+  "project_name": "Python Boilerplate",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "version": "0.1.0",
+  "python_version": "3.7"
+}
